@@ -6,7 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-
+    <Reference Include="Graph">
+      <HintPath>Graph.dll</HintPath>
+    </Reference>
+    <Reference Include="TestSet">
+      <HintPath>TestSet.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
